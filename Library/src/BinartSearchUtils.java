@@ -1,5 +1,8 @@
 import java.util.List;
 
+/**
+ * 二分法搜索的工具类
+ */
 public class BinartSearchUtils {
 
     /**
